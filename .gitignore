@@ -1,0 +1,19 @@
+# Visual Studio and build artifacts
+.vs/
+[Bb]in/
+[Oo]bj/
+packages/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+# Local database files and backups
+*.mdf
+*.ldf
+*.bak
+# Local secrets and editor files
+.env
+.env.*
+.vscode/
+.DS_Store
+Thumbs.db
